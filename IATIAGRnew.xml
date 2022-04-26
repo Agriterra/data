@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-activities generated-datetime="2022-04-26T10:59:06+01:00" version="2.02">
+	<iati-activity xml:lang="en" default-currency="EUR" last-updated-datetime="2022-03-31T00:00:00+01:00" humanitarian="1" hierarchy="1">
+		<iati-identifier>
+			NL-KVK-41048542-G0013
+		</iati-identifier>
+		<reporting-org ref="NL-KVK-41048542" type="21" secondary-reporter="0">
+			<narrative>
+				Stichting Agriterra
+			</narrative>
+		</reporting-org>
+		<title>
+			<narrative>
+				USAID Grow-Coop Philippines
+			</narrative>
+		</title>
+		<description type="1">
+			<narrative>
+				General activity description text
+			</narrative>
+		</description>
+		<description type="2">
+			<narrative>
+				Objectives for the activity
+			</narrative>
+		</description>
+		<description type="2">
+			<narrative>
+				Statement of groups targeted to benefit
+			</narrative>
+		</description>
+		<participating-org ref="NL-KVK-41048542" role="2" type="21" activity-id="G0013">
+			<narrative>
+				Stichting Agriterra
+			</narrative>
+		</participating-org>
+		<participating-org ref="0" role="1" type="10" activity-id="72049220CA00002">
+			<narrative>
+				USAID
+			</narrative>
+		</participating-org>
+		<activity-status code="2" />
+		<activity-date iso-date="2020-01-06" type="1" />
+		<activity-date iso-date="2022-11-05" type="3" />
+		<contact-info type="1">
+			<organisation>
+				<narrative>
+					Stichting Agriterra
+				</narrative>
+			</organisation>
+			<department>
+				<narrative>
+					Operations/Grant management
+				</narrative>
+			</department>
+			<job-title>
+				<narrative>
+					Client Information Analist
+				</narrative>
+			</job-title>
+			<telephone>
+				+31264455445
+			</telephone>
+			<email>
+				agriterra@agriterra.org
+			</email>
+			<website>
+				https://www.agriterra.org
+			</website>
+			<mailing-address>
+				<narrative>
+					Stichting Agriterra, Willemsplein 42, 6871EX, Arnhem, The Netherlands
+				</narrative>
+			</mailing-address>
+		</contact-info>
+		<recipient-country code="PH" percentage="100" />
+		<sector vocabulary="1" code="31110" percentage="100" />
+		<policy-marker vocabulary="1" code="3" significance="0" />
+		<default-flow-type code="30" />
+		<default-finance-type code="110" />
+		<default-aid-type code="C01" />
+		<default-tied-status code="5" />
+		<budget>
+			<period-start iso-date="2020-01-06" />
+			<period-end iso-date="2022-11-05" />
+			<value currency="EUR" value-date="2020-01-06">
+				1651306
+			</value>
+		</budget>
+		<transaction ref="G0013" humanitarian="1">
+			<transaction-type code="1" />
+			<transaction-date iso-date="2021-03-31" />
+			<value currency="EUR" value-date="2021-03-31">
+				123107
+			</value>
+			<provider-org provider-activity-id="0-72049220CA00002" type="10" ref="0">
+				<narrative>
+					USAID
+				</narrative>
+			</provider-org>
+			<receiver-org receiver-activity-id="NL-KVK-41048542-ATNLPC00036" type="21" ref="NL-KVK-41048542">
+				<narrative>
+					Stichting Agriterra
+				</narrative>
+			</receiver-org>
+			<disbursement-channel code="1" />
+			<sector vocabulary="1" code="31110" />
+			<recipient-country code="PH" />
+		</transaction>
+		<transaction ref="G0013" humanitarian="1">
+			<transaction-type code="1" />
+			<transaction-date iso-date="2021-06-30" />
+			<value currency="EUR" value-date="2021-06-30">
+				146941
+			</value>
+			<provider-org provider-activity-id="0-72049220CA00002" type="10" ref="0">
+				<narrative>
+					USAID
+				</narrative>
+			</provider-org>
+			<receiver-org receiver-activity-id="NL-KVK-41048542-ATNLPC00036" type="21" ref="NL-KVK-41048542">
+				<narrative>
+					Stichting Agriterra
+				</narrative>
+			</receiver-org>
+			<disbursement-channel code="1" />
+			<sector vocabulary="1" code="31110" />
+			<recipient-country code="PH" />
+		</transaction>
+		<transaction ref="G0013" humanitarian="1">
+			<transaction-type code="1" />
+			<transaction-date iso-date="2021-09-30" />
+			<value currency="EUR" value-date="2021-09-30">
+				197017
+			</value>
+			<provider-org provider-activity-id="0-72049220CA00002" type="10" ref="0">
+				<narrative>
+					USAID
+				</narrative>
+			</provider-org>
+			<receiver-org receiver-activity-id="NL-KVK-41048542-ATNLPC00036" type="21" ref="NL-KVK-41048542">
+				<narrative>
+					Stichting Agriterra
+				</narrative>
+			</receiver-org>
+			<disbursement-channel code="1" />
+			<sector vocabulary="1" code="31110" />
+			<recipient-country code="PH" />
+		</transaction>
+		<transaction ref="G0013" humanitarian="1">
+			<transaction-type code="1" />
+			<transaction-date iso-date="2021-12-31" />
+			<value currency="EUR" value-date="2021-12-31">
+				61643
+			</value>
+			<provider-org provider-activity-id="0-72049220CA00002" type="10" ref="0">
+				<narrative>
+					USAID
+				</narrative>
+			</provider-org>
+			<receiver-org receiver-activity-id="NL-KVK-41048542-ATNLPC00036" type="21" ref="NL-KVK-41048542">
+				<narrative>
+					Stichting Agriterra
+				</narrative>
+			</receiver-org>
+			<disbursement-channel code="1" />
+			<sector vocabulary="1" code="31110" />
+			<recipient-country code="PH" />
+		</transaction>
+		<transaction ref="G0013" humanitarian="1">
+			<transaction-type code="1" />
+			<transaction-date iso-date="2022-03-31" />
+			<value currency="EUR" value-date="2022-03-31">
+				4
+			</value>
+			<provider-org provider-activity-id="0-72049220CA00002" type="10" ref="0">
+				<narrative>
+					USAID
+				</narrative>
+			</provider-org>
+			<receiver-org receiver-activity-id="NL-KVK-41048542-ATNLPC00036" type="21" ref="NL-KVK-41048542">
+				<narrative>
+					Stichting Agriterra
+				</narrative>
+			</receiver-org>
+			<disbursement-channel code="1" />
+			<sector vocabulary="1" code="31110" />
+			<recipient-country code="PH" />
+		</transaction>
+	</iati-activity>
+</iati-activities>
