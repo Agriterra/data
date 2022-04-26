@@ -73,7 +73,7 @@
 				</narrative>
 			</mailing-address>
 		</contact-info>
-		<recipient-country code="PH " percentage="100" />
+		<recipient-country code="PH" percentage="100" />
 		<sector vocabulary="1" code="31110" percentage="100" />
 		<policy-marker vocabulary="1" code="3" significance="0" />
 		<default-flow-type code="30" />
@@ -105,7 +105,7 @@
 			</receiver-org>
 			<disbursement-channel code="1" />
 			<sector vocabulary="1" code="31110" />
-			<recipient-country code="PH " />
+			<recipient-country code="PH" />
 		</transaction>
 		<transaction ref="G0013" humanitarian="1">
 			<transaction-type code="1" />
@@ -125,7 +125,7 @@
 			</receiver-org>
 			<disbursement-channel code="1" />
 			<sector vocabulary="1" code="31110" />
-			<recipient-country code="PH " />
+			<recipient-country code="PH" />
 		</transaction>
 		<transaction ref="G0013" humanitarian="1">
 			<transaction-type code="1" />
@@ -145,7 +145,7 @@
 			</receiver-org>
 			<disbursement-channel code="1" />
 			<sector vocabulary="1" code="31110" />
-			<recipient-country code="PH " />
+			<recipient-country code="PH" />
 		</transaction>
 		<transaction ref="G0013" humanitarian="1">
 			<transaction-type code="1" />
@@ -165,7 +165,7 @@
 			</receiver-org>
 			<disbursement-channel code="1" />
 			<sector vocabulary="1" code="31110" />
-			<recipient-country code="PH " />
+			<recipient-country code="PH" />
 		</transaction>
 		<transaction ref="G0013" humanitarian="1">
 			<transaction-type code="1" />
@@ -185,7 +185,7 @@
 			</receiver-org>
 			<disbursement-channel code="1" />
 			<sector vocabulary="1" code="31110" />
-			<recipient-country code="PH " />
+			<recipient-country code="PH" />
 		</transaction>
 	</iati-activity>
 </iati-activities>
