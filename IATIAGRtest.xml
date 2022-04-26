@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <iati-activities generated-datetime="2022-04-26T10:59:06+01:00" version="2.02">
 	<iati-activity xml:lang="en" default-currency="EUR" last-updated-datetime="2022-03-31T00:00:00+01:00" humanitarian="1" hierarchy="1">
-		<iati-agriterraID>
+		<iati-identifier>
 			NL-KVK-41048542-G0013
-		</iati-agriterraID>
+		</iati-identifier>
 		<reporting-org ref="NL-KVK-41048542" type="21" secondary-reporter="0">
 			<narrative>
 				Stichting Agriterra
